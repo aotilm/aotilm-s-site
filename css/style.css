@@ -125,7 +125,9 @@ ol {
 	color: #ffffff;
 	margin-bottom: 0;
 }
-
+hr{
+	border: 1px solid white; width: 75%; margin: 20px 0;
+}
 .set-bg {
 	background-repeat: no-repeat;
 	background-size: cover;
